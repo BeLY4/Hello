@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open Untitled-1.html",
-            "file": "c:\\Users\\glebo\\OneDrive\\Desktop\\.vscode\\Untitled-1.html"
+            "file": "index.html"
         }
     ]
 }
